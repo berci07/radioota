@@ -13,10 +13,10 @@
     <!-- Enter <DirectUrl nil="true /> or <HttpUrl nil="true /> to indicate you won't be using a type of URL -->
     <!-- HTTP link will open a web page -->
     <!-- Direct Link overrides HTTP link -->
-  <DirectUrl><![CDATA[https://uca2bf13713fd9d6316978a5dcaf.dl.dropboxusercontent.com/cd/0/get/A8luzRwfeF9fFAHRMI0V48Z_ao6PZSwqhBKA_Hr0lWwEbsQzQ3rMrSQiYgD_IY6QM3z9-RzFrsvQvM3-mAZ_WXH2Y_kw4yPa7UikRP_9CO3OVDR5xKqdo-jx96Tv-B-mx9I/file?dl=1#]]></DirectUrl>
-  <HttpUrl>https://www.dropbox.com/home?preview=6521_1.zip</HttpUrl>
+  <DirectUrl><![CDATA[https://uca3eac845d19e2043519eeeca44.dl.dropboxusercontent.com/cd/0/get/A8mmCt-FBWgKHxL-l92v52czXJtbydp9i1k7RsYw2AkfyIE5pXpZjgnL9-h4UmutnYhgqNJiixl7T8HckUPmJ4IHWxO7VJnyesiaRyJD4_Nbe4HsYPV_wdHKV9ux8nkqVF8/file?dl=1#]]></DirectUrl>
+  <HttpUrl>https://www.dropbox.com/s/q72kk5t0hyddwr7/6521_1.zip?dl=0</HttpUrl>
   <!-- What version are you issuing? -->
-  <Android>9.0.0</Android>
+  <Android>8.1.0</Android>
   <!-- Providing File Checking for direct downloads. You SHOULD offer this for your users whether using HTTP or Direct -->
   <!-- OPTIONAL: Enter <CheckMD5 nil="true" /> offer MD5 checking -->
   <CheckMD5>04E3F3F40BB1E544B85A015F51F6BBDF</CheckMD5>
@@ -35,5 +35,5 @@
   <!-- Put the changelog here... Use Markdown to format it -->
   <!-- Again, surround special characters with the CDATA tags or your XML will NOT parse -->
   <Changelog>### Changelog 20200731
-* First initial</Changelog>
+* First initial OTA</Changelog>
 </ROM>
