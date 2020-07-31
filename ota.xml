@@ -19,7 +19,7 @@
   <Android>9.0.0</Android>
   <!-- Providing File Checking for direct downloads. You SHOULD offer this for your users whether using HTTP or Direct -->
   <!-- OPTIONAL: Enter <CheckMD5 nil="true" /> offer MD5 checking -->
-  <CheckMD5>34bcd7098135edd0ec2e95a01103acf0</CheckMD5>
+  <CheckMD5>F5F7B2D4C9BC538DB3AC2601A9CBA5CB</CheckMD5>
   <!-- The filesize of your ROM -->
   <!-- Please enter this in BYTES only. Otherwise an incorrect value will be shown -->
   <FileSize type="integer">967406261</FileSize>
@@ -35,5 +35,5 @@
   <!-- Put the changelog here... Use Markdown to format it -->
   <!-- Again, surround special characters with the CDATA tags or your XML will NOT parse -->
   <Changelog>### Changelog 20200731
-* Stuff</Changelog>
+* First initial OTA test</Changelog>
 </ROM>
