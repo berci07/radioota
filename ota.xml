@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <!-- Your ROM Name -->
-  <RomName>T-Rex Radio ROM</RomName>
+  <RomName>T-Rex Radio</RomName>
   <VersionName>6521_1</VersionName>
   <!-- Your ROM version. MUST be incrementally larger than previous versions -->
   <!-- Do NOT use letters in your version number. Integers only -->
@@ -19,7 +19,7 @@
   <Android>9.0.0</Android>
   <!-- Providing File Checking for direct downloads. You SHOULD offer this for your users whether using HTTP or Direct -->
   <!-- OPTIONAL: Enter <CheckMD5 nil="true" /> offer MD5 checking -->
-  <CheckMD5>F5F7B2D4C9BC538DB3AC2601A9CBA5CB</CheckMD5>
+  <CheckMD5>04E3F3F40BB1E544B85A015F51F6BBDF</CheckMD5>
   <!-- The filesize of your ROM -->
   <!-- Please enter this in BYTES only. Otherwise an incorrect value will be shown -->
   <FileSize type="integer">975045876</FileSize>
@@ -31,9 +31,9 @@
   <WebsiteURL>t-rex.tech</WebsiteURL>
   <!-- Your Donate URL -->
   <!-- OPTIONAL: Enter <DonateURL nil="true" /> to hide this -->
-  <DonateURL>paypal.me/trex</DonateURL>
+  <DonateURL>paypal.me/berci07</DonateURL>
   <!-- Put the changelog here... Use Markdown to format it -->
   <!-- Again, surround special characters with the CDATA tags or your XML will NOT parse -->
   <Changelog>### Changelog 20200731
-* Initial OTA test</Changelog>
+* First initial</Changelog>
 </ROM>
