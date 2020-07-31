@@ -34,6 +34,6 @@
   <DonateURL>paypal.me/berci07</DonateURL>
   <!-- Put the changelog here... Use Markdown to format it -->
   <!-- Again, surround special characters with the CDATA tags or your XML will NOT parse -->
-  <Changelog>### Changelog 20200731
+  <Changelog>### Changelog 2020-07-31
 * First initial OTA</Changelog>
 </ROM>
