@@ -13,8 +13,8 @@
     <!-- Enter <DirectUrl nil="true /> or <HttpUrl nil="true /> to indicate you won't be using a type of URL -->
     <!-- HTTP link will open a web page -->
     <!-- Direct Link overrides HTTP link -->
-  <DirectUrl><![CDATA[https://uccab05b59b8e0ac0a61f6657c5e.dl.dropboxusercontent.com/cd/0/get/A8kMejDqqSkVfrHRgbSIFbXuTzpGqbQ57oyRwTxRX4GVcg2K5FRO9AKluiFKIOCAbRrwjCYrf0AofTmXWVQXHCt9H8X7PP1J8qSmAduAorpQZgdnffYd4j82xVro2XHiEdU/file?dl=1#]]></DirectUrl>
-  <HttpUrl>https://www.dropbox.com/s/z6snfi7os23dt34/6521_1.zip?dl=0</HttpUrl>
+  <DirectUrl><![CDATA[https://uc067dd3f38d40e7922c73dfba49.dl.dropboxusercontent.com/cd/0/get/A8lfReXXyv1zYPd2kJYaLPRO_6uQb4SAy14umkP90I5majcCbCtv6FlVc6ezq1h7uCAfrn0CCTBVW9QsBhm-MulV6oBckm8dEfiSush328j9DY1HvWU3SJDyfqgifEhykec/file?dl=1#]]></DirectUrl>
+  <HttpUrl>https://www.dropbox.com/s/0jcptyou3js7poz/UnnecessaryFileDeleter.zip?dl=0</HttpUrl>
   <!-- What version are you issuing? -->
   <Android>9.0.0</Android>
   <!-- Providing File Checking for direct downloads. You SHOULD offer this for your users whether using HTTP or Direct -->
@@ -22,7 +22,7 @@
   <CheckMD5>F5F7B2D4C9BC538DB3AC2601A9CBA5CB</CheckMD5>
   <!-- The filesize of your ROM -->
   <!-- Please enter this in BYTES only. Otherwise an incorrect value will be shown -->
-  <FileSize type="integer">967406261</FileSize>
+  <FileSize type="integer">153</FileSize>
   <!-- Developer or Team name. You can put anything here, even a couple of names -->
   <!-- OPTIONAL: Enter <Developer nil="true" /> to hide this -->
   <Developer>berci</Developer>
@@ -35,5 +35,5 @@
   <!-- Put the changelog here... Use Markdown to format it -->
   <!-- Again, surround special characters with the CDATA tags or your XML will NOT parse -->
   <Changelog>### Changelog 20200731
-* First initial OTA test</Changelog>
+* Initial OTA test</Changelog>
 </ROM>
