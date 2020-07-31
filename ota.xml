@@ -25,7 +25,7 @@
   <FileSize type="integer">975045876</FileSize>
   <!-- Developer or Team name. You can put anything here, even a couple of names -->
   <!-- OPTIONAL: Enter <Developer nil="true" /> to hide this -->
-  <Developer>berci&xxadamxx</Developer>
+  <Developer>berci</Developer>
   <!-- Your ROM or Developer Website. Can be a personal site or your XDA/forum thread -->
   <!-- OPTIONAL: Enter <Website nil="true" /> to hide this -->
   <WebsiteURL>t-rex.tech</WebsiteURL>
