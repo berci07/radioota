@@ -14,7 +14,6 @@
     <!-- HTTP link will open a web page -->
     <!-- Direct Link overrides HTTP link -->
   <DirectUrl><![CDATA[https://www.dropbox.com/s/kh3gop34ubkbc4r/lsec6521update?dl=0]]></DirectUrl>
-  <HttpUrl>https://www.dropbox.com/s/kh3gop34ubkbc4r/lsec6521update?dl=0</HttpUrl>
   <HttpUrl>https://www.dropbox.com/s/aojtzf1re6ipd3n/6521_1.zip?dl=0</HttpUrl>
   <!-- What version are you issuing? -->
   <Android>8.1.0</Android>
