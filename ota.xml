@@ -38,6 +38,6 @@
 * First initial release of OTA Firmware</Changelog>
   <AddonCount>1</AddonCount>
 <AddonsURL>
-https://github.com/berci07/radioota/blob/master/addons.xml
+https://raw.githubusercontent.com/berci07/radioota/master/addon.xml
 </AddonsURL>
 </ROM>
