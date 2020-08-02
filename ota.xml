@@ -16,7 +16,7 @@
   <DirectUrl><![CDATA[https://uc45df4060d434321ce106234434.dl.dropboxusercontent.com/cd/0/get/A8sGS4BiTSbeqHdHhEp0aREKsYo2838LgCqHcHRzMf5-aTbZmiAfXG5QNhhPMEGISz8N72NTBEYnDitZbfW0aCG6qzP7nzTNaJqvzxaxGnHX4wvsryHJpAep7o3kdiZ8anM/file?dl=1#]]></DirectUrl>
   <HttpUrl>https://www.dropbox.com/s/131grdq0lzb3oim/T-Rex-v0.8.zip?dl=0</HttpUrl>
   <!-- What version are you issuing? -->
-  <Android>8.1.0</Android>
+  <Android>9.0</Android>
   <!-- Providing File Checking for direct downloads. You SHOULD offer this for your users whether using HTTP or Direct -->
   <!-- OPTIONAL: Enter <CheckMD5 nil="true" /> offer MD5 checking -->
   <CheckMD5>96A6E02780AA36612306EC408E15F9AD</CheckMD5>
