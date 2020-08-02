@@ -36,4 +36,8 @@
   <!-- Again, surround special characters with the CDATA tags or your XML will NOT parse -->
   <Changelog>### Changelog 2020-08-05
 * First initial release of OTA Firmware</Changelog>
+  <AddonCount>1</AddonCount>
+<AddonsURL>
+https://github.com/berci07/radioota/blob/master/addons.xml
+</AddonsURL>
 </ROM>
