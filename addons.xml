@@ -4,7 +4,7 @@
         <addon>
             <id>1</id> <!-- Use integers only, make them unique -->
             <name>lsec6521update</name> <!-- The name, simples -->
-            <description>Download this for OTA update</description> <!-- You can use markdown here if you want -->
+            <description>Download this for proper OTA update</description> <!-- You can use markdown here if you want -->
             <updated-at>2020-08-03</updated-at> <!-- Must be in yyyy-mm-dd format -->
             <size>1730204</size> <!-- filesize in bytes -->
             <download-link>
