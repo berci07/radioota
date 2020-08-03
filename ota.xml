@@ -13,8 +13,8 @@
     <!-- Enter <DirectUrl nil="true /> or <HttpUrl nil="true /> to indicate you won't be using a type of URL -->
     <!-- HTTP link will open a web page -->
     <!-- Direct Link overrides HTTP link -->
-  <DirectUrl><![CDATA[https://uc13374088e482f3d5973b47c8de.dl.dropboxusercontent.com/cd/0/get/A8tFwrdFjIir8Ib_RV1mPZPByio_iJMZ_ppRTlpOibtB3QxjzbDjn-ZfEt1hqsMLoPXt38r0uBAU47tgl4m0pr1V4KZj5hZ_dQaYf0AXSVs7UWzN-qmzXLcPGdcpeuJN_90/file?dl=1#]]></DirectUrl>
-  <HttpUrl>https://www.dropbox.com/s/qvumjvsp7a72yx2/6521_1.zip?dl=0</HttpUrl>
+  <DirectUrl><![CDATA[https://uce0368b05c3c24bbc8148e21245.dl.dropboxusercontent.com/cd/0/get/A8uRvUTjPHZVukFPu_8vgzOM_qqgcOqnjdb8wbHV0X1D6eEB9-KcMjvyWLjGgZP6vALf-NoZyHlKkEHcrhwNhYBhvYIcPGAbGmoN1brSFF3Aq2j64kGLpqWYEt4yGTafuYM/file?dl=1#]]></DirectUrl>
+  <HttpUrl>hhttps://www.dropbox.com/s/ap8u5xbpfxch1q6/6521_1.zip?dl=0</HttpUrl>
   <!-- What version are you issuing? -->
   <Android>9.0.0</Android>
   <!-- Providing File Checking for direct downloads. You SHOULD offer this for your users whether using HTTP or Direct -->
