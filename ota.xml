@@ -13,16 +13,16 @@
     <!-- Enter <DirectUrl nil="true /> or <HttpUrl nil="true /> to indicate you won't be using a type of URL -->
     <!-- HTTP link will open a web page -->
     <!-- Direct Link overrides HTTP link -->
-  <DirectUrl><![CDATA[https://uc7c391560ce5f3e7a0c3fe0087e.dl.dropboxusercontent.com/cd/0/get/A8soJ5WLqdD6bujriuCzG_xrj-3e6Rbu2AknjX4iOBP-kbI4KgFg9sA_DhZu3MNPP1tcEAttPR0eT2BkF-ctaIpf31fCYx3y5PhCGXVc442y5L0JLUS5HrxFAnffNicpupg/file?dl=1#]]></DirectUrl>
-  <HttpUrl>https://www.dropbox.com/s/hj0fvizhk6axudo/6521_1.zip?dl=0</HttpUrl>
+  <DirectUrl><![CDATA[https://uc13374088e482f3d5973b47c8de.dl.dropboxusercontent.com/cd/0/get/A8tFwrdFjIir8Ib_RV1mPZPByio_iJMZ_ppRTlpOibtB3QxjzbDjn-ZfEt1hqsMLoPXt38r0uBAU47tgl4m0pr1V4KZj5hZ_dQaYf0AXSVs7UWzN-qmzXLcPGdcpeuJN_90/file?dl=1#]]></DirectUrl>
+  <HttpUrl>https://www.dropbox.com/s/qvumjvsp7a72yx2/6521_1.zip?dl=0</HttpUrl>
   <!-- What version are you issuing? -->
   <Android>9.0.0</Android>
   <!-- Providing File Checking for direct downloads. You SHOULD offer this for your users whether using HTTP or Direct -->
   <!-- OPTIONAL: Enter <CheckMD5 nil="true" /> offer MD5 checking -->
-  <CheckMD5>B25D77B622A87632ED575C5889C7AE82</CheckMD5>
+  <CheckMD5>D0EF8E48AE2441DDB8425A177DC15F4F</CheckMD5>
   <!-- The filesize of your ROM -->
   <!-- Please enter this in BYTES only. Otherwise an incorrect value will be shown -->
-  <FileSize type="integer">975410447</FileSize>
+  <FileSize type="integer">820944989</FileSize>
   <!-- Developer or Team name. You can put anything here, even a couple of names -->
   <!-- OPTIONAL: Enter <Developer nil="true" /> to hide this -->
   <Developer>berci--</Developer>
