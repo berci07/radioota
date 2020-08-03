@@ -13,8 +13,8 @@
     <!-- Enter <DirectUrl nil="true /> or <HttpUrl nil="true /> to indicate you won't be using a type of URL -->
     <!-- HTTP link will open a web page -->
     <!-- Direct Link overrides HTTP link -->
-  <DirectUrl><![CDATA[https://uc85e7de6d266741f8fe2f2b43bb.dl.dropboxusercontent.com/cd/0/get/A8sZ599J1u_L1cDYiDmtCKl3nuP4JY6QdcAL2nRPFFVa3xAf6NdPy6MxYsmAlHzUWwNVTyZnmGQUmY3V7NZsztcx_PDKQvhOwvp6695iQ8hVj2Ckz8SrF32RoacJpNm9MRY/file?dl=1#]]></DirectUrl>
-  <HttpUrl>https://www.dropbox.com/s/pz3pveflz91luia/6521_1.zip?dl=0</HttpUrl>
+  <DirectUrl><![CDATA[https://ucbd39f463f1bdf67cc2c71f59db.dl.dropboxusercontent.com/cd/0/get/A8tivXathrJQkpUK0L4PLGss8mwgmiCJUsBLBBlX1wVh_bJ-rrfHSQKY6RX4b6goCma8-xIC0US6mQJ7T-xj4faygVYsnFvrpCXfCR21WkqIf05bquO8AlTtE-v1Z9RkmnQ/file?dl=1#]]></DirectUrl>
+  <HttpUrl>https://www.dropbox.com/s/n9ol61i4zn9gvf4/6521_1.zip?dl=0</HttpUrl>
   <!-- What version are you issuing? -->
   <Android>9.0.0</Android>
   <!-- Providing File Checking for direct downloads. You SHOULD offer this for your users whether using HTTP or Direct -->
@@ -35,5 +35,5 @@
   <!-- Put the changelog here... Use Markdown to format it -->
   <!-- Again, surround special characters with the CDATA tags or your XML will NOT parse -->
   <Changelog>### Changelog | 2020.08.05
-* First initial OTA Firmware release</Changelog>
+* First OTA Firmware release</Changelog>
 </ROM>
