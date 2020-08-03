@@ -35,9 +35,9 @@
   <!-- Put the changelog here... Use Markdown to format it -->
   <!-- Again, surround special characters with the CDATA tags or your XML will NOT parse -->
   <Changelog>### Changelog | 2020.08.05
-* First initial OTA Firmware release</Changelog<AddonCount>2</AddonCount>
+* First initial OTA Firmware release</Changelog
+<AddonCount>1</AddonCount>
 <AddonsURL>
 https://raw.githubusercontent.com/berci07/radioota/master/addons.xml
 </AddonsURL>>
-  
 </ROM>
