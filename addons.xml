@@ -3,22 +3,22 @@
     <addons>
         <addon>
             <id>1</id> <!-- Use integers only, make them unique -->
-            <name>lsec6521update</name> <!-- The name, simples -->
-            <description>Download this for proper OTA update</description> <!-- You can use markdown here if you want -->
+            <name>6521_1.zip</name> <!-- The name, simples -->
+            <description>T-Rex Pro v0.9 firmware release</description> <!-- You can use markdown here if you want -->
             <updated-at>2020-08-05</updated-at> <!-- Must be in yyyy-mm-dd format -->
-            <size>1730204</size> <!-- filesize in bytes -->
+            <size>975410383</size> <!-- filesize in bytes -->
             <download-link>
-            https://uc432436140654601a6856efd9ba.dl.dropboxusercontent.com/cd/0/get/A83VfEwxtYji93rzRS0_rdO2p84A9wSq5k4Ohva8aPK8SGH79AJyoJsD23ZGTqiHi7MAEicV4bwHaJ5UiNYHnAfp3cNedULy78VjRRHSXYuYVcDt-nL9K8_sHLpRsCXLX5k/file?dl=1#
+            https://uc5400832c0080eb54ea1c662656.dl.dropboxusercontent.com/cd/0/get/A86mbzKopAwqDFLu7psyna6pduOqIN7jkvXO-8HGqzinp0UdycLUdEYC79fIlsAA5R7d3Zd3E4LKzkdPaS3z0MlXgkeGn9XYZyZHnUSnP7vT3FZYQmb53JqaK99Bqnttdls/file?dl=1#
             </download-link>
         </addon>
         <addon>
-            <id>1</id> <!-- Use integers only, make them unique -->
-            <name>black theme</name> <!-- The name, simples -->
-            <description>Download this for proper OTA update</description> <!-- You can use markdown here if you want -->
-            <updated-at>2020-08-10</updated-at> <!-- Must be in yyyy-mm-dd format -->
-            <size>173</size> <!-- filesize in bytes -->
+            <id>2</id> <!-- Use integers only, make them unique -->
+            <name>Allapp.pkg</name> <!-- The name, simples -->
+            <description>Black theme troughout the system</description> <!-- You can use markdown here if you want -->
+            <updated-at>2020-08-05</updated-at> <!-- Must be in yyyy-mm-dd format -->
+            <size>1730204</size> <!-- filesize in bytes -->
             <download-link>
-            https://uc432436140654601a6856efd9ba.dl.dropboxusercontent.com/cd/0/get/A83VfEwxtYji93rzRS0_rdO2p84A9wSq5k4Ohva8aPK8SGH79AJyoJsD23ZGTqiHi7MAEicV4bwHaJ5UiNYHnAfp3cNedULy78VjRRHSXYuYVcDt-nL9K8_sHLpRsCXLX5k/file?dl=1#
+            https://uc5f9a19ed4597a076a6f10bc327.dl.dropboxusercontent.com/cd/0/get/A875Ci58-L-wP46vCTrX-2gTv1QrQl2ZiL4u-FlOS-h8im2Go4t5whtrKgdEFYT99vO7ezknLgunXgeaDeXNmk8HOy42CjRIrexBmssuHeBytxzTDRAp9O7zeCPlWGVBq4w/file?dl=1#
             </download-link>
         </addon>
     </addons>
