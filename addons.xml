@@ -11,5 +11,15 @@
             https://uc432436140654601a6856efd9ba.dl.dropboxusercontent.com/cd/0/get/A83VfEwxtYji93rzRS0_rdO2p84A9wSq5k4Ohva8aPK8SGH79AJyoJsD23ZGTqiHi7MAEicV4bwHaJ5UiNYHnAfp3cNedULy78VjRRHSXYuYVcDt-nL9K8_sHLpRsCXLX5k/file?dl=1#
             </download-link>
         </addon>
+        <addon>
+            <id>1</id> <!-- Use integers only, make them unique -->
+            <name>black theme</name> <!-- The name, simples -->
+            <description>Download this for proper OTA update</description> <!-- You can use markdown here if you want -->
+            <updated-at>2020-08-10</updated-at> <!-- Must be in yyyy-mm-dd format -->
+            <size>173</size> <!-- filesize in bytes -->
+            <download-link>
+            https://uc432436140654601a6856efd9ba.dl.dropboxusercontent.com/cd/0/get/A83VfEwxtYji93rzRS0_rdO2p84A9wSq5k4Ohva8aPK8SGH79AJyoJsD23ZGTqiHi7MAEicV4bwHaJ5UiNYHnAfp3cNedULy78VjRRHSXYuYVcDt-nL9K8_sHLpRsCXLX5k/file?dl=1#
+            </download-link>
+        </addon>
     </addons>
 </hash>
