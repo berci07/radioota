@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hash>
+    <addons>
+        <addon>
+            <id>1</id> <!-- Use integers only, make them unique -->
+            <name>6521_1.zip</name> <!-- The name, simples -->
+            <description>T-Rex Pro 0.9 firmware release. (20200805)</description> <!-- You can use markdown here if you want -->
+            <updated-at>2020-08-05</updated-at> <!-- Must be in yyyy-mm-dd format -->
+            <size>975410383</size> <!-- filesize in bytes -->
+            <download-link>
+            https://uc5400832c0080eb54ea1c662656.dl.dropboxusercontent.com/cd/0/get/A86mbzKopAwqDFLu7psyna6pduOqIN7jkvXO-8HGqzinp0UdycLUdEYC79fIlsAA5R7d3Zd3E4LKzkdPaS3z0MlXgkeGn9XYZyZHnUSnP7vT3FZYQmb53JqaK99Bqnttdls/file?dl=1#
+            </download-link>
+        </addon>
+        <addon>
+            <id>2</id> <!-- Use integers only, make them unique -->
+            <name>AllApp.pkg</name> <!-- The name, simples -->
+            <description>Black theme by T-Rex Team</description> <!-- You can use markdown here if you want -->
+            <updated-at>2020-08-05</updated-at> <!-- Must be in yyyy-mm-dd format -->
+            <size>345645</size> <!-- filesize in bytes -->
+            <download-link>
+            https://uc5f9a19ed4597a076a6f10bc327.dl.dropboxusercontent.com/cd/0/get/A875Ci58-L-wP46vCTrX-2gTv1QrQl2ZiL4u-FlOS-h8im2Go4t5whtrKgdEFYT99vO7ezknLgunXgeaDeXNmk8HOy42CjRIrexBmssuHeBytxzTDRAp9O7zeCPlWGVBq4w/file?dl=1#
+            </download-link>
+        </addon>
+    </addons>
+</hash>
