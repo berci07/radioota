@@ -14,7 +14,7 @@
         <addon>
             <id>2</id> <!-- Use integers only, make them unique -->
             <name>AllApp.pkg</name> <!-- The name, simples -->
-            <description>Black theme by T-Rex Team</description> <!-- You can use markdown here if you want -->
+            <description>Black theme designed by xy</description> <!-- You can use markdown here if you want -->
             <updated-at>2020-08-05</updated-at> <!-- Must be in yyyy-mm-dd format -->
             <size>345645</size> <!-- filesize in bytes -->
             <download-link>
