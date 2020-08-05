@@ -34,7 +34,7 @@
   <DonateURL>paypal.me/berci07</DonateURL>
   <!-- Put the changelog here... Use Markdown to format it -->
   <!-- Again, surround special characters with the CDATA tags or your XML will NOT parse -->
-  <Changelog>### Download this file and press Install in order to get your modifications done</Changelog>
+  <Changelog>## Download this file and press Execute in order to complete your modifications</Changelog>
 <AddonCount>2</AddonCount>
 <AddonsURL>
 https://raw.githubusercontent.com/berci07/radioota/master/addons.xml
