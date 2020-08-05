@@ -3,7 +3,7 @@
     <addons>
         <addon>
             <id>1</id> <!-- Use integers only, make them unique -->
-            <name>6521_1.zip</name> <!-- The name, simples -->
+            <namme>6521_1.zip</name> <!-- The name, simples -->
             <description>T-Rex Pro v0.9 firmware release</description> <!-- You can use markdown here if you want -->
             <updated-at>2020-08-05</updated-at> <!-- Must be in yyyy-mm-dd format -->
             <size>975410383</size> <!-- filesize in bytes -->
@@ -15,10 +15,10 @@
             <id>2</id> <!-- Use integers only, make them unique -->
             <name>Allapp.pkg</name> <!-- The name, simples -->
             <description>Black theme troughout the system</description> <!-- You can use markdown here if you want -->
-            <updated-at>2020-08-05</updated-at> <!-- Must be in yyyy-mm-dd format -->
+            <updated-at>2020-08-10</updated-at> <!-- Must be in yyyy-mm-dd format -->
             <size>1730204</size> <!-- filesize in bytes -->
             <download-link>
-            https://uc5f9a19ed4597a076a6f10bc327.dl.dropboxusercontent.com/cd/0/get/A875Ci58-L-wP46vCTrX-2gTv1QrQl2ZiL4u-FlOS-h8im2Go4t5whtrKgdEFYT99vO7ezknLgunXgeaDeXNmk8HOy42CjRIrexBmssuHeBytxzTDRAp9O7zeCPlWGVBq4w/file?dl=1#
+            /sdcard/Themes/lsec6521update
             </download-link>
         </addon>
     </addons>
