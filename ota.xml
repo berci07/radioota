@@ -2,7 +2,7 @@
 <ROM>
   <!-- Your ROM Name -->
   <RomName>T-Rex Pro</RomName>
-  <VersionName>6521_1</VersionName>
+  <VersionName>lsec6521update</VersionName>
   <!-- Your ROM version. MUST be incrementally larger than previous versions -->
   <!-- Do NOT use letters in your version number. Integers only -->
   <!-- Previous version will be read from the build.prop -->
@@ -16,13 +16,13 @@
   <DirectUrl><![CDATA[https://uc432436140654601a6856efd9ba.dl.dropboxusercontent.com/cd/0/get/A83VfEwxtYji93rzRS0_rdO2p84A9wSq5k4Ohva8aPK8SGH79AJyoJsD23ZGTqiHi7MAEicV4bwHaJ5UiNYHnAfp3cNedULy78VjRRHSXYuYVcDt-nL9K8_sHLpRsCXLX5k/file?dl=1#]]></DirectUrl>
   <HttpUrl>https://www.dropbox.com/preview/6521_1.zip?role=personal</HttpUrl>
   <!-- What version are you issuing? -->
-  <Android>9.0.0</Android>
+  <Android>8.1.0</Android>
   <!-- Providing File Checking for direct downloads. You SHOULD offer this for your users whether using HTTP or Direct -->
   <!-- OPTIONAL: Enter <CheckMD5 nil="true" /> offer MD5 checking -->
-  <CheckMD5>21B5B50589D1156BC1B50B1F0C15D0E8</CheckMD5>
+  <CheckMD5>EF2B563A0DAE6D1C25BFF542FE05EB3B</CheckMD5>
   <!-- The filesize of your ROM -->
   <!-- Please enter this in BYTES only. Otherwise an incorrect value will be shown -->
-  <FileSize type="integer">975410383</FileSize>
+  <FileSize type="integer">1730204</FileSize>
   <!-- Developer or Team name. You can put anything here, even a couple of names -->
   <!-- OPTIONAL: Enter <Developer nil="true" /> to hide this -->
   <Developer>T-Rex Team</Developer>
@@ -34,7 +34,7 @@
   <DonateURL>paypal.me/trextech</DonateURL>
   <!-- Put the changelog here... Use Markdown to format it -->
   <!-- Again, surround special characters with the CDATA tags or your XML will NOT parse -->
-  <Changelog>## Download this file and press Execute in order to complete your modifications</Changelog>
+  <Changelog></Changelog>
 <AddonCount>2</AddonCount>
 <AddonsURL>
 https://raw.githubusercontent.com/berci07/radioota/master/addons.xml
