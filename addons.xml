@@ -5,10 +5,10 @@
             <id>1</id> <!-- Use integers only, make them unique -->
             <name>lsec6521update</name> <!-- The name, simples -->
             <description>Download this for proper OTA update</description> <!-- You can use markdown here if you want -->
-            <updated-at>2020-08-03</updated-at> <!-- Must be in yyyy-mm-dd format -->
+            <updated-at>2020-08-05</updated-at> <!-- Must be in yyyy-mm-dd format -->
             <size>1730204</size> <!-- filesize in bytes -->
             <download-link>
-            https://uc0904b8c2f2cc36d04ab5229f08.dl.dropboxusercontent.com/cd/0/get/A8z9KNWKrjRYgVvggrNhrBVnYhoAQM6Te6rt6JnC7ptN-luXs4s_k5CIgFNHAi803JTnkNwMorOjkGN2u8Altg-9Uh1Rv_glinsuHuUWDDZN1Gzf0Qzjbobi_tg1mAz6_ZE/file?dl=1#
+            https://uc432436140654601a6856efd9ba.dl.dropboxusercontent.com/cd/0/get/A83VfEwxtYji93rzRS0_rdO2p84A9wSq5k4Ohva8aPK8SGH79AJyoJsD23ZGTqiHi7MAEicV4bwHaJ5UiNYHnAfp3cNedULy78VjRRHSXYuYVcDt-nL9K8_sHLpRsCXLX5k/file?dl=1#
             </download-link>
         </addon>
     </addons>
