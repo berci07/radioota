@@ -12,7 +12,7 @@
             </download-link>
         </addon>
         <addon>
-            <id>1</id> <!-- Use integers only, make them unique -->
+            <id>2</id> <!-- Use integers only, make them unique -->
             <namme>AllApp.pkg</name> <!-- The name, simples -->
             <description>Black theme</description> <!-- You can use markdown here if you want -->
             <updated-at>2020-08-05</updated-at> <!-- Must be in yyyy-mm-dd format -->
