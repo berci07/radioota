@@ -14,11 +14,11 @@
         <addon>
             <id>2</id> <!-- Use integers only, make them unique -->
             <name>Allapp.pkg</name> <!-- The name, simples -->
-            <description>Black theme for Car Info</description> <!-- You can use markdown here if you want -->
-            <updated-at>2020-08-05</updated-at> <!-- Must be in yyyy-mm-dd format -->
+            <description>Black theme for Car Info app</description> <!-- You can use markdown here if you want -->
+            <updated-at>2020-08-06</updated-at> <!-- Must be in yyyy-mm-dd format -->
             <size>35253736</size> <!-- filesize in bytes -->
             <download-link>
-            https://uc8e2f4834a11f44fa5a08156064.dl.dropboxusercontent.com/cd/0/get/A87m3iMezAA-XtUvsj7Wk-HFR9Hf-iwEax7cnLALK7plYe7HOgFmaUgzZuFnoKO9bSpkdyLjF_QMlFTvP6hu2kagOlYcGcSmUsvAFz9j74ykoBfy2POTUtR9kKtIHYZfrYc/file?dl=1#
+            https://doc-14-48-docs.googleusercontent.com/docs/securesc/l49ke16g6hchtvq5nhcf1h9pk4nscq69/nffc0jjb3g16drc7ib98pl8pbtlfn0kd/1596739500000/17393981356719055603/05061849786982931618Z/1vOxrgJAxEN6t-4WGfTHB7i_vWtOPs8mm?e=download&nonce=t4cejrqp38e5m&user=05061849786982931618Z&hash=6etg60k9q7vst7nanpa7ann596ouube7
             </download-link>
         </addon>
     </addons>
