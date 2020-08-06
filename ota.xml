@@ -34,7 +34,10 @@
   <DonateURL>paypal.me/trextech</DonateURL>
   <!-- Put the changelog here... Use Markdown to format it -->
   <!-- Again, surround special characters with the CDATA tags or your XML will NOT parse -->
-  <Changelog></Changelog>
+  <Changelog>## Usage of T-Rex Central
+  * Select your theme / firmware and Download it. 
+  * Go to "Execute your changes" and press "Download".
+  * Press "Execute" after download is done and you are done.</Changelog>
 <AddonCount>2</AddonCount>
 <AddonsURL>
 https://raw.githubusercontent.com/berci07/radioota/master/addons.xml
