@@ -4,11 +4,11 @@
         <addon>
             <id>1</id> <!-- Use integers only, make them unique -->
             <name>6521_1.zip</name> <!-- The name, simples -->
-            <description>T-Rex Pro 0.9 firmware release | Firmware version: 20200805</description> <!-- You can use markdown here if you want -->
+            <description>T-Rex Pro 0.9 firmware release | Firmware version: 20200806</description> <!-- You can use markdown here if you want -->
             <updated-at>2020-08-05</updated-at> <!-- Must be in yyyy-mm-dd format -->
             <size>975410383</size> <!-- filesize in bytes -->
             <download-link>
-            https://uc5400832c0080eb54ea1c662656.dl.dropboxusercontent.com/cd/0/get/A86mbzKopAwqDFLu7psyna6pduOqIN7jkvXO-8HGqzinp0UdycLUdEYC79fIlsAA5R7d3Zd3E4LKzkdPaS3z0MlXgkeGn9XYZyZHnUSnP7vT3FZYQmb53JqaK99Bqnttdls/file?dl=1#
+            https://uccb928a246dcc58417e596338d2.dl.dropboxusercontent.com/cd/0/get/A8-DE1My-uDWTso-M1XJwQwSya8CvKbiHVqOF8iaVJNOjoT8mtZEh1hfenKEp505raMbMqrQMSeIVkXQB2hEwXjHmGtkOUoH7oqfjF3ysG479oFYrX6JLPqlm4GSoYwC88Q/file?dl=1#
             </download-link>
         </addon>
         <addon>
