@@ -24,7 +24,7 @@
         <addon>
             <id>3</id> <!-- Use integers only, make them unique -->
             <name>Allapp2.pkg</name> <!-- The name, simples -->
-            <description>Black theme for Car Info app</description> <!-- You can use markdown here if you want -->
+            <description>BLACK THEME | Modifies various apps and widgets to be of a dark or blakc color schemes</description> <!-- You can use markdown here if you want -->
             <updated-at>2020-08-06</updated-at> <!-- Must be in yyyy-mm-dd format -->
             <size>35253736</size> <!-- filesize in bytes -->
             <download-link>
