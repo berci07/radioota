@@ -4,7 +4,7 @@
         <addon>
             <id>1</id> <!-- Use integers only, make them unique -->
             <name>6521_1.zip</name> <!-- The name, simples -->
-            <description>T-Rex Pro 0.9 firmware release | Firmware version: 20200806</description> <!-- You can use markdown here if you want -->
+            <description>LATEST UPDATE - 20200806 T-REX PRO Firmware v1.0</description> <!-- You can use markdown here if you want -->
             <updated-at>2020-08-05</updated-at> <!-- Must be in yyyy-mm-dd format -->
             <size>975410383</size> <!-- filesize in bytes -->
             <download-link>
