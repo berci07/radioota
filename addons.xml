@@ -4,7 +4,7 @@
         <addon>
             <id>1</id> <!-- Use integers only, make them unique -->
             <name>6521_1.zip</name> <!-- The name, simples -->
-            <description>LATEST UPDATE - 20200806 T-REX PRO Firmware v1.0</description> <!-- You can use markdown here if you want -->
+            <description>LATEST UPDATE - 20200811 T-REX PRO Firmware v1.0</description> <!-- You can use markdown here if you want -->
             <updated-at>2020-08-05</updated-at> <!-- Must be in yyyy-mm-dd format -->
             <size>975410383</size> <!-- filesize in bytes -->
             <download-link>
@@ -13,7 +13,7 @@
         </addon>
         <addon>
             <id>2</id> <!-- Use integers only, make them unique -->
-            <name>Allapp1.pkg</name> <!-- The name, simples -->
+            <name>Allapp.pkg</name> <!-- The name, simples -->
             <description>BLACK THEME - Modifies the look of various apps and widgets</description> <!-- You can use markdown here if you want -->
             <updated-at>2020-08-06</updated-at> <!-- Must be in yyyy-mm-dd format -->
             <size>35253736</size> <!-- filesize in bytes -->
@@ -23,42 +23,12 @@
         </addon>
         <addon>
             <id>3</id> <!-- Use integers only, make them unique -->
-            <name>Allapp2.pkg</name> <!-- The name, simples -->
-            <description>BLUE THEME - Modifies the look of various apps and widgets</description> <!-- You can use markdown here if you want -->
-            <updated-at>2020-08-06</updated-at> <!-- Must be in yyyy-mm-dd format -->
+            <name>Allapp.pkg</name> <!-- The name, simples -->
+            <description>Car Info app | USA version</description> <!-- You can use markdown here if you want -->
+            <updated-at>2020-08-11</updated-at> <!-- Must be in yyyy-mm-dd format -->
             <size>35253736</size> <!-- filesize in bytes -->
             <download-link>
-            https://ucf9b2f6487d63dd916258a23be3.dl.dropboxusercontent.com/cd/0/get/A8-nz2giZcjoQnYbetBKJN4HVUWbQXYrgbQchY2om-l8iqR3NphIdyWRhstan9O89UWVaX9yUXo4csa2Su7c8ILW9FVHY8FOmIuLTZ7dI1bh7R-6nWB4cSlLhCIfdVTHEcc/file?dl=1#
-            </download-link>
-        </addon>
-        <addon>
-            <id>3</id> <!-- Use integers only, make them unique -->
-            <name>Allapp3.pkg</name> <!-- The name, simples -->
-            <description>GREEN THEME - Modifies the look of various apps and widgets</description> <!-- You can use markdown here if you want -->
-            <updated-at>2020-08-06</updated-at> <!-- Must be in yyyy-mm-dd format -->
-            <size>35253736</size> <!-- filesize in bytes -->
-            <download-link>
-            https://ucf9b2f6487d63dd916258a23be3.dl.dropboxusercontent.com/cd/0/get/A8-nz2giZcjoQnYbetBKJN4HVUWbQXYrgbQchY2om-l8iqR3NphIdyWRhstan9O89UWVaX9yUXo4csa2Su7c8ILW9FVHY8FOmIuLTZ7dI1bh7R-6nWB4cSlLhCIfdVTHEcc/file?dl=1#
-            </download-link>
-        </addon>
-        <addon>
-            <id>4</id> <!-- Use integers only, make them unique -->
-            <name>Allapp4.pkg</name> <!-- The name, simples -->
-            <description>Black theme for Car Info app</description> <!-- You can use markdown here if you want -->
-            <updated-at>2020-08-06</updated-at> <!-- Must be in yyyy-mm-dd format -->
-            <size>35253736</size> <!-- filesize in bytes -->
-            <download-link>
-            https://ucf9b2f6487d63dd916258a23be3.dl.dropboxusercontent.com/cd/0/get/A8-nz2giZcjoQnYbetBKJN4HVUWbQXYrgbQchY2om-l8iqR3NphIdyWRhstan9O89UWVaX9yUXo4csa2Su7c8ILW9FVHY8FOmIuLTZ7dI1bh7R-6nWB4cSlLhCIfdVTHEcc/file?dl=1#
-            </download-link>
-        </addon>
-        <addon>
-            <id>5</id> <!-- Use integers only, make them unique -->
-            <name>Allapp4.pkg</name> <!-- The name, simples -->
-            <description>Black theme for Car Info app</description> <!-- You can use markdown here if you want -->
-            <updated-at>2020-08-06</updated-at> <!-- Must be in yyyy-mm-dd format -->
-            <size>35253736</size> <!-- filesize in bytes -->
-            <download-link>
-            https://ucf9b2f6487d63dd916258a23be3.dl.dropboxusercontent.com/cd/0/get/A8-nz2giZcjoQnYbetBKJN4HVUWbQXYrgbQchY2om-l8iqR3NphIdyWRhstan9O89UWVaX9yUXo4csa2Su7c8ILW9FVHY8FOmIuLTZ7dI1bh7R-6nWB4cSlLhCIfdVTHEcc/file?dl=1#
+            https://uc5f6d73503a2c0f1f92ad6e79ef.dl.dropboxusercontent.com/cd/0/get/A9T70y8EXZBWCVzwA2-oEuREHUoIfJPmp27M5ObvzSQdi3j-zKxizlYDDxGhsyKBkrHSciW9Z5pyoezxM0q1sQSYVwz7Q2Fr6PWe-0SuXFjosmvyEkX_rO3o9M5-DEYYrYE/file?dl=1#
             </download-link>
         </addon>
     </addons>
