@@ -39,4 +39,8 @@
   * Go to "Execute your changes" and press "Download".
   * Press "Execute" after download is done and your unit will restart, execute your changes.
   * You are good to go.</Changelog>
+  <AddonCount>1</AddonCount>	
+<AddonsURL>	
+https://raw.githubusercontent.com/berci07/radioota/master/addons.xml	
+</AddonsURL>
 </ROM>
