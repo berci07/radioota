@@ -8,7 +8,7 @@
             <updated-at>2020-08-23</updated-at> <!-- Must be in yyyy-mm-dd format -->
             <size>0</size> <!-- filesize in bytes -->
             <download-link>
-            http://34.89.249.60/test
+            http://34.89.249.60
             </download-link>
         </addon>
     </addons>
