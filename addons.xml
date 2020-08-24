@@ -3,7 +3,7 @@
     <addons>
         <addon>
             <id>1</id> <!-- Use integers only, make them unique -->
-            <name>Coming soon!</name> <!-- The name, simples -->
+            <name>6521_1.zip</name> <!-- The name, simples -->
             <description>Coming soon!</description> <!-- You can use markdown here if you want -->
             <updated-at>2020-08-23</updated-at> <!-- Must be in yyyy-mm-dd format -->
             <size>0</size> <!-- filesize in bytes -->
