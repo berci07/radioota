@@ -4,11 +4,11 @@
         <addon>
             <id>1</id> <!-- Use integers only, make them unique -->
             <name>6521_1.zip</name> <!-- The name, simples -->
-            <description>Coming Soon!</description> <!-- You can use markdown here if you want -->
+            <description>Soon!</description> <!-- You can use markdown here if you want -->
             <updated-at>2020-08-23</updated-at> <!-- Must be in yyyy-mm-dd format -->
             <size>0</size> <!-- filesize in bytes -->
             <download-link>
-            http://34.89.249.60/Downloads/6521_1.zip
+            http://34.89.249.60
             </download-link>
         </addon>
     </addons>
