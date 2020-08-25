@@ -4,7 +4,7 @@
         <addon>
             <id>1</id> <!-- Use integers only, make them unique -->
             <name>6521_1.zip</name> <!-- The name, simples -->
-            <description>FIRMWARE -  v1.2</description> <!-- You can use markdown here if you want -->
+            <description>FIRMWARE UPDATE - v1.2: UI/Config changes, performance tuning</description> <!-- You can use markdown here if you want -->
             <updated-at>2020-08-25</updated-at> <!-- Must be in yyyy-mm-dd format -->
             <size>287925731</size> <!-- filesize in bytes -->
             <download-link>
