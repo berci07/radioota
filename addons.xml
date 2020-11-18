@@ -18,7 +18,7 @@
             <updated-at>2020-11-13</updated-at> <!-- Must be in yyyy-mm-dd format -->
             <size>28436636</size> <!-- filesize in bytes -->
             <download-link>
-            http://35.192.200.196/Downloads/1.5_ota-root.zip
+            http://35.192.200.196/Downloads/v1.5_ota-root.zip
             </download-link>
         </addon>
     </addons>
